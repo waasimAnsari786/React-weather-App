@@ -26,7 +26,7 @@ export default function WhrApp() {
     <>
       <div className="container d-flex justify-content-center align-items-center flex-column mt-5">
         <h1 className="heading mb-5">react wheather app</h1>
-        <div className="col-xxl-4 col-xl-5 col-lg-6 col-md-7 col-sm-8 col-9 w-app d-flex justify-content-center align-items-center flex-column">
+        <div className="col-xxl-2 col-xl-5 col-lg-6 col-md-7 col-sm-8 col-9 w-app d-flex justify-content-center align-items-center flex-column">
           <form
             onSubmit={(e) => {
               e.preventDefault();
